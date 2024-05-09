@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: e744d115e5d87174c840b1899cf063ea
+  - enabled: 1
+    path: Assets/Scenes/MenuInicio.unity
+    guid: c0cea6d911eeab64e8cb132ef8278a83
+  - enabled: 1
+    path: Assets/Scenes/Desafio1_N1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Desafio2_N1.unity
+    guid: f9242c6da9dc98247826b7d8d95409ce
+  - enabled: 1
+    path: Assets/Scenes/Desafio3_N1.unity
+    guid: 5c84423581fb17e479cb021f9ec81203
+  - enabled: 1
+    path: Assets/Scenes/Desafio4_N1.unity
+    guid: 0310ff49ec13b40499d5305ecc4e94c6
+  - enabled: 1
+    path: Assets/Scenes/Desafio1_N2.unity
+    guid: b165346e3dde25b43bfe254b6fb85f83
+  - enabled: 1
+    path: Assets/Scenes/Desafio2_N2.unity
+    guid: ac4488a5ca1eb2a4f9fcd6634fb5add5
+  - enabled: 1
+    path: Assets/Scenes/Desafio3_N2.unity
+    guid: 57dd1decaa8ba14499c1c4f85f18fd73
+  - enabled: 1
+    path: Assets/Scenes/Desafio4_N2.unity
+    guid: 45956e6ea2e853f4d8120ea3b4b981b8
+  - enabled: 1
+    path: Assets/Scenes/Desafio1_N3.unity
+    guid: be22d153525aa6944be41dc6d7b0448d
+  - enabled: 1
+    path: Assets/Scenes/Desafio2_N3.unity
+    guid: 56567c9cd94580a4eb5f5bcdb33e4d87
+  - enabled: 1
+    path: Assets/Scenes/Desafio3_N3.unity
+    guid: a8dc1db23fa23b64e8c7751030014d9f
+  - enabled: 1
+    path: Assets/Scenes/Desafio4_N3.unity
+    guid: c535cceff9f08d84a808d7cfa5ce694d
+  - enabled: 1
+    path: Assets/Scenes/TelaQuiz/Desa2.unity
+    guid: bb2d931498f636c4eb4a5f6693c3d150
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
